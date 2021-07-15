@@ -1,4 +1,5 @@
 # CV
 My responsive CV
-![Sin título](https://user-images.githubusercontent.com/70913658/125856460-8439c29f-0198-4c00-9297-79df93e99556.png)
+![Sin título](https://user-images.githubusercontent.com/70913658/125861872-ba60bfa7-1f47-4a00-ae74-08dadd5c9ff5.png)
+
 
