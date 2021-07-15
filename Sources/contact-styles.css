@@ -1,0 +1,100 @@
+body{
+    background-image: url("../IMG/pexels-pixabay-261599.jpg");
+    background-size: cover;
+
+}
+
+
+
+.title{
+    display: flex;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+}
+.contact{
+    display:flex;
+    justify-content: center;
+    height:100%;
+    
+}
+
+form{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:30%;
+    margin-top: 2%;
+}
+
+.name-entry{
+    width: 100%;
+    height: 20%;
+    margin:2%;
+    background: #202a334f;
+    padding: 5px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #00bcd4;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+}
+
+.name-entry:hover{
+    background:#8ba6b9;
+
+}
+
+.email-entry{
+    width: 100%;
+    height: 20%;
+    margin:2%;
+    background: #202a334f;
+    padding: 5px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #00bcd4;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+}
+
+.email-entry:hover{
+    background:#8ba6b9;
+}
+
+textarea{
+    width: 100%;
+    height: 200px;
+    margin:2%;
+    background: #202a334f;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #00bcd4;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+}
+
+textarea:hover{
+    background:#8ba6b9;
+}
+
+
+.button{
+    width: 100%;
+    background: #8591adfa;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    cursor:pointer;
+  }
+
+  .button:hover{
+      background:#303f9f;
+  }
