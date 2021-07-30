@@ -184,9 +184,9 @@ a:hover{
     margin-bottom: 10px;
 }
 .title2:hover{
-    background:#47000aeb;
-    color: #fff;
-    transform:scale(1,2)
+    text-decoration-line: underline;
+    color:#03a9f4;
+    transition: 300ms;
     
 }
 
